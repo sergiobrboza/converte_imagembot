@@ -2,9 +2,7 @@
 
 [![GitHub Follow](https://img.shields.io/github/followers/sergiobrboza)](https://github.com/sergiobrboza)
 
-
-
-
+![ImagemBot](https://github.com/sergiobrboza/converte_imagembot/blob/main/imagem.png.png)
 
 # Bot do Telegram para Conversão de Imagens
 
